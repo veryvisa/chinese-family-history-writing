@@ -299,10 +299,18 @@
   <input id="f-email" name="email" type="email" required autocomplete="email" inputmode="email" maxlength="120">
   <label for="f-other">其他联系方式 <span class="opt">（选填：微信、WhatsApp、电话都行，不留也没关系）</span></label>
   <input id="f-other" name="other_contact" type="text" maxlength="120">
+  <label for="f-x0">讲述人大约年龄 <span class="opt">（选填）</span></label>
+  <input id="f-x0" name="teller_age" type="text" maxlength="200" placeholder="如 82 岁；为自己写就填自己的">
+  <label for="f-x1">讲述语言或方言 <span class="opt">（选填）</span></label>
+  <input id="f-x1" name="teller_language" type="text" maxlength="200" placeholder="如 普通话、粤语、台山话、闽南话">
+  <label for="f-x2">讲述人所在地／时区 <span class="opt">（选填）</span></label>
+  <input id="f-x2" name="teller_location" type="text" maxlength="200" placeholder="如 列治文；或 广州，北京时间">
+  <label for="f-x3">想要的交付形式 <span class="opt">（选填）</span></label>
+  <select id="f-x3" name="delivery"><option value="">请选择</option><option value="还没想好，先聊聊">还没想好，先聊聊</option><option value="排版电子书（PDF）">排版电子书（PDF）</option><option value="私密网页版（照片＋原声片段）">私密网页版（照片＋原声片段）</option><option value="两样都要">两样都要</option></select>
   <label for="f-service">想咨询哪一项</label>
   <select id="f-service" name="service"><option value="为父母写">为父母写</option><option value="为家族写">为家族写</option><option value="为自己写">为自己写</option><option value="先聊聊，估个价">先聊聊，估个价</option><option value="其他问题">其他问题</option></select>
   <label for="f-msg">你的情况 <span class="opt">（越具体越好，比如时间点、所在城市、卡在哪一步）</span></label>
-  <textarea id="f-msg" name="message" maxlength="4000" placeholder="可以写：讲述人和你的关系、大约年龄、讲普通话还是哪种方言、住在哪个城市（时区）、想要电子书还是私密网页，以及你最想留下的那段故事。"></textarea>
+  <textarea id="f-msg" name="message" maxlength="4000" placeholder="说说讲述人和你的关系、你最想留下的那段故事，以及大概希望什么时候完成。"></textarea>
   <button class="btn" type="submit">发送咨询</button>
   <p class="form-msg" role="status" aria-live="polite"></p>
   <p class="privacy">你留下的信息只用于回复这次咨询，不会用来群发推广，也不会提供给第三方；想删除随时发邮件告诉我们。首次沟通免费。</p>

@@ -66,6 +66,10 @@ img,svg{max-width:100%}
 .split-list ul{columns:2;column-gap:28px}
 @media (max-width:640px){.split-list ul{columns:1}}
 
+.audio{margin:18px 0;padding:12px 14px;background:var(--soft);border-radius:12px}
+.audio audio{width:100%}
+.audio figcaption{font-size:14px;color:var(--muted);margin-top:6px}
+
 /* FAQ */
 .faq details{background:var(--card);border:1px solid var(--line);border-radius:12px;margin:10px 0;padding:0 16px}
 .sec:nth-of-type(even) .faq details{background:var(--bg)}
