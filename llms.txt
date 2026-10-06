@@ -10,6 +10,9 @@
 ## 一个常见的情形
 周日晚上的视频电话，八十四岁的父亲又讲起那一年：他揣着两百美元、一只帆布箱，在温哥华机场排了很久的队，出来时天已经黑了。这个故事你听过很多遍，每次细节都不太一样。上一次他记不清是哪一年了，问你：「是八九年还是九零年？」 你忽然意识到，这些事只存在他一个人的记忆里。你知道个大概，却说不出他当年为什么非走不可，第一份工作在哪里，第一个冬天住在谁家地下室。你的孩子在这里长大，读不懂爷爷写的信，也听不懂他的乡音。 很多家庭都是在这样一个晚上，决定该把这些事写下来了。 一个人的移民史，如果没有人问、没有人记，等这一代人走了，就真的没有了。
 
+## 先听二十分钟
+不想读长文的话，可以先听这段对谈：为什么要趁老人还讲得动开始录、第一次访谈怎么开口、方言和不读中文的孙辈怎么办、怎样把一个家庭放回加拿大华人移民史，以及移民多年后怎样给自己做传。 !audio海外华人家史写作 · 二十分钟对谈（NotebookLM 生成，2026-10 版） 看文字稿（机器转写，未逐字校对）
+
 ## 趁他们还讲得动，现在开始
 记忆不会一下子消失，它是慢慢变模糊的。先是年份对不上，然后是人名，再后来是那些只有亲历者才知道的细节：船票多少钱，第一次拿到工资买了什么，为了团聚等了几年。 最好的访谈时机，是讲述人还能连续讲一两个小时、还愿意回忆的时候。这件事不需要等到寿宴前才赶，也不该等到住进养老院以后才想起。 父母在国内、子女在海外，也不必等哪一次回国。访谈可以跨时区用视频做，老人在家里，坐在自己熟悉的椅子上讲，往往讲得最好。
 
@@ -86,6 +89,7 @@
 
 ## 参考资料
 - Government of Canada：2006 年总理就华人人头税正式道歉（新闻稿存档）: https://www.canada.ca/en/news/archive/2006/06/prime-minister-harper-offers-full-apology-chinese-head-tax.html
+- Province of British Columbia：Federal Head Tax（人头税史）: https://www2.gov.bc.ca/gov/content/governments/multiculturalism-anti-racism/chinese-legacy-bc/history/discrimination/federal-head-tax
 - Canadian Museum of Immigration at Pier 21：Before and After 1923, Chinese Exclusion in Context: https://pier21.ca/before-and-after-1923-chinese-exclusion-context
 - Migration Policy Institute：Building a Mosaic（1967 年积分制）: https://www.migrationpolicy.org/article/building-mosaic-evolution-canadas-approach-immigrant-integration
 - Memory and Valour：Fees（加拿大同类服务公开价）: https://memoryandvalour.ca/fees
